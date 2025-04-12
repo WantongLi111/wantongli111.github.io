@@ -2,6 +2,7 @@
 layout: page
 title: "About Me"
 ---
+![Project 1 Figure](figure/picture.png)
 
 I have been a postdoctoral researcher at UC Berkeley since last September, serving as a senior postdoc and contributing to multiple projects aimed at deepening our understanding of ecosystem functions and disturbances. Previously, I worked as a postdoc at the Max Planck Institute for Biogeochemistry in the Department of Biogeochemical Integration starting in February 2023. I completed my Ph.D. at the same institute, successfully defending my thesis with distinction in June 2023.
 
