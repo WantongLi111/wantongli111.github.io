@@ -1,11 +1,8 @@
 ---
 layout: page
-title: "News"
-permalink: /news/
+title: "Research and Projects"
+permalink: /Research and Projects/
 ---
-
-# Research Projects
-
 ---
 
 ## Project 1 – Multi-layer Soil Moisture Controlling Land Carbon Cycle
