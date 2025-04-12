@@ -12,7 +12,7 @@ Here are a few announcements coming soon or which have just happened:
 
 <div style="text-align: center;">
   <figure>
-    <img src="figure/io_fig2.jpg" alt="Figure Caption" style="width:400px;" />
+    <img src="figure/io_fig2.jpg" alt="" style="width:400px;" />
     <figcaption>Figure Caption</figcaption>
   </figure>
 </div>
