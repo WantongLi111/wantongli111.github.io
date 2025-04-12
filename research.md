@@ -1,3 +1,9 @@
+---
+layout: page
+title: "News"
+permalink: /news/
+---
+
 # Research Projects
 
 ---
