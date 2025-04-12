@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "News"
-permalink: /news/
+permalink: /News/
 ---
 
 Here are a few announcements coming soon or which have just happened:
