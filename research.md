@@ -11,10 +11,12 @@ permalink: /Research and Projects/
 We synthesised satellite remote sensing observations (i.e., leaf area index, sun-induced fluorescence, land surface temperature, vegetation optical depth) to quantify the effect of drought on vegetation physiology. Using machine learning and the Soil Canopy Observation of Photochemistry and Energy flux (SCOPE) model, this study found strong vegetation physiology decoupling with canopy structure in humid ecosystems. Quantifying drought impacts on the terrestrial carbon sink needs to carefully account for vegetation physiological variability.
 
 **Publication:**
-Li, W., Pacheco-Labrador, J., [...], & Orth, R. (2023). Widespread and complex drought effects on vegetation physiology inferred from space. Nature Communications, 14(4640). https://www.nature.com/articles/s41467-023-40226-9
+[Li, W., Pacheco-Labrador, J., [...], & Orth, R. (2023). Widespread and complex drought effects on vegetation physiology inferred from space. Nature Communications, 14(4640).](https://www.nature.com/articles/s41467-023-40226-9)
 
-**Figure:**  
-![Figure 1](figure/fig1_research.jpg)
+<p align="center">
+  <img src="figure/fig1_research.jpg">
+  <em></em>
+</p>
 
 **2. Widespread increasing vegetation sensitivity to soil moisture**
 This study quantified the sensitivity of vegetation leaf area index to near- and sub-surface soil moisture using ensemble observations and land surface models and found a widespread increase in sensitivity from observations due to ecosystem vulnerability and precipitation deficits. This study illustrated a non-linearity of vegetation responses to soil moisture variability and unravelled the discrepancy in land surface modelling. Another contributing study of mine found similar increasing water limitation for future scenarios (Denissen et al., Nat. Clim. Change. DOI: 10.1038/s41558-022-01403-8).
