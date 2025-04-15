@@ -14,7 +14,7 @@ Here are a few announcements coming soon or which have just happened:
         <img src="/figure/io_fig2.jpg" style="width:50%; display:block; margin:0 auto;" >
 </p>
 
-- **Preprint Update, March 2025:** The preprint of *Diagnosing Syndromes of Biosphere-Atmosphere-Socioeconomic Change* ([view on arXiv](https://arxiv.org/abs/2503.08874)) was sent out for peer review on *One Earth*. This perspective work offers a data-driven approach for monitoring, integrating, and diagnosing the dynamic interactions among the biosphere, atmosphere, and socioeconomic activities. Under the leadership of Prof. Markus Reinstein and with the support of a broad scientific team, we presented a prototype and summarized the main interactions between natural and urban systems.
+- **Preprint Update, March 2025:** The preprint of *Diagnosing Syndromes of Biosphere-Atmosphere-Socioeconomic Change* ([view on arXiv](https://arxiv.org/abs/2503.08874)) was sent out for peer review on *One Earth*. This perspective work offers a data-driven approach for monitoring, integrating, and diagnosing the dynamic interactions among the biosphere, atmosphere, and socioeconomic activities. Under the leadership of Prof. Markus Reinstein and with the support of a broad scientific team, we presented a prototype and summarized two main interactions across natural and urban systems.
 
 <p align="center">
       <a href="[https://doi.org/10.21203/rs.3.rs-6322235/v1](https://arxiv.org/abs/2503.08874)">
