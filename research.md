@@ -42,7 +42,8 @@ Significance: This study investigated the global propagation of soil drought in 
 ![Figure 4](figure/fig3_research.jpg)
 
 **2. Vegetation Structure and Physiology on Land–Atmosphere Coupling**
-This study investigated the global propagation of soil drought in the hydrosphere blue water (runoff) and biosphere green water fluxes (land evaporation) and found contrasting drought responses between evaporation and runoff and between dry and wet regions. Land surface models overestimate the drought-induced evaporation deficits due to inadequate modelling of soil-water interplay. The initial analysis of this work was carried out by a MSc student whom I co-supervised, and after the successful master defense I took over the study and continued the work to complete the study.
+This study reveals the influence of vegetation structure and physiology on regulating the coupling between soil moisture and vapor pressure deficit, which is crucial for understanding land–atmosphere interactions. Using explainable machine learning and Earth system model simulations (ESMs), we found that vegetation structure and physiology exert strong control on soil moisture–vapor pressure deficit (SM–VPD) coupling in cold and temperate regions and this is moderated by plant diversity and deeper soil water and groundwater availability. ESMs can largely reproduce the role of vegetation physiology for the SM–VPD coupling, but not for the case of vegetation structure.
+
 
 **Publication:**
 [Li, W., Migliavacca, M., Miralles, D. G., Reichstein, M., Anderegg, W. R., Yang, H., & Orth, R. (2025). Disentangling Effects of Vegetation Structure and Physiology on Land–Atmosphere Coupling. Global Change Biology, 31(1), e70035.](https://doi.org/10.1111/gcb.70035)
