@@ -2,11 +2,18 @@
 layout: page
 title: "About Me"
 ---
-<img src="figure/My_photo.jpg" alt="Your Photo" width="33%">
-
-I have been a postdoctoral researcher at UC Berkeley since September 2024, serving as a senior postdoc and contributing to multiple projects aimed at deepening our understanding of ecosystem functions and disturbances. Previously, I worked as a postdoc at the Max Planck Institute for Biogeochemistry in the Department of Biogeochemical Integration starting in February 2023. I completed my Ph.D. at the same institute, successfully defending my thesis with distinction in June 2023.
+<table>
+  <tr>
+    <td width="33%">
+      <img src="figure/My_photo.jpg" alt="Your Photo" width="100%">
+    </td>
+    <td>
+      I have been a postdoctoral researcher at UC Berkeley since September 2024, serving as a senior postdoc and contributing to multiple projects aimed at deepening our understanding of ecosystem functions and disturbances. Previously, I worked as a postdoc at the Max Planck Institute for Biogeochemistry in the Department of Biogeochemical Integration starting in February 2023. I completed my Ph.D. at the same institute, successfully defending my thesis with distinction in June 2023.
 
 I was born in a small city in eastern China, where I often observed the human impact on the environment. During my time on campus in China, I participated in various environmental protection projects—including winter bird habitat assessments, mangrove forest restoration, urbanisation and historical heritage trade-off studies, and pollution investigations in marinated onion production. These experiences motivated me to pursue a career focused on understanding the impacts of global change and mitigating climate risks.
+    </td>
+  </tr>
+</table>
 
 My Ph.D. work focused on remote sensing vegetation monitoring using multiple indicators (vegetation greenness, SIF, LST, VOD) to analyze long-term responses to water limitation and extreme environmental conditions (such as deficits in soil moisture and terrestrial water storage) and vegetation feedbacks. I also conducted analyses of land surface and Earth system model outputs, along with eddy covariance measurements of carbon and energy fluxes.
 
