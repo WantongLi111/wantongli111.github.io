@@ -23,7 +23,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:wantongli@berkeley.edu"}
-  - {title: Google, icon: house, url: "https://scholar.google.com/citations?user=JsOwOoQAAAAJ&hl=en"}
+  - {title: Google Scholar, icon: google, url: "https://scholar.google.com/citations?user=JsOwOoQAAAAJ&hl=en"}
   - {title: researchgate, icon: researchgate, url: "https://www.researchgate.net/profile/Wantong-Li"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/wantong-li"}
 
