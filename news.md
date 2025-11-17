@@ -23,7 +23,7 @@ Here are a few announcements coming soon or which have just happened:
 <table>
   <tr>
   <td>
-      <strong>Workshop Update, April 2025:<strong>
+      <strong>Workshop Update, April 2025:</strong>
        Together with a graduate student, I participated in a GEDI science team meeting at the University of Maryland, as highly recommended by Prof. Trevor Keenan. The three-day, medium-intensity meeting was fascinating, featuring presentations from distinguished scientists on topics ranging from GEDI-InSAR-Sentinel-2 image fusion, quality filtering algorithm enhancement, and complexity metrics construction to broad applications in vegetation modeling, disturbance assessment, and habitat protection. Last but not least, GEDI V2.1 and v3 are coming this summer or later, with improvement such as geolocation. Stay tuned!
     </td>
     <td width="50%">
