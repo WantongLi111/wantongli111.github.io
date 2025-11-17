@@ -5,12 +5,6 @@ permalink: /Tools/
 ---
 ---
 
----
-layout: page
-title: "Developing tools"
-permalink: /Tools/
----
-
 Welcome!  
 This page highlights public tools and reproducible workflows I develop for studying terrestrial ecosystems, climate, and socio-environmental change.
 
