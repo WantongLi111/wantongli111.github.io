@@ -44,7 +44,6 @@ Significance: This study investigated the global propagation of soil drought in 
 **2. Vegetation Structure and Physiology on Land–Atmosphere Coupling**
 This study reveals the influence of vegetation structure and physiology on regulating the coupling between soil moisture and vapor pressure deficit, which is crucial for understanding land–atmosphere interactions. Using explainable machine learning and Earth system model simulations (ESMs), we found that vegetation structure and physiology exert strong control on soil moisture–vapor pressure deficit (SM–VPD) coupling in cold and temperate regions and this is moderated by plant diversity and deeper soil water and groundwater availability. ESMs can largely reproduce the role of vegetation physiology for the SM–VPD coupling, but not for the case of vegetation structure.
 
-
 **Publication:**
 [Li, W., Migliavacca, M., Miralles, D. G., Reichstein, M., Anderegg, W. R., Yang, H., & Orth, R. (2025). Disentangling Effects of Vegetation Structure and Physiology on Land–Atmosphere Coupling. Global Change Biology, 31(1), e70035.](https://doi.org/10.1111/gcb.70035)
 
@@ -56,3 +55,9 @@ This review synthesizes recent advances in monitoring vegetation dynamics, empha
 **Publication:**
 [Li, W., Duveiller, G., Wieneke, S., Forkel, M., Gentine, P., Reichstein, M., Niu, S., Migliavacca, M. & Orth, R. (2024). Regulation of the global carbon and water cycles through vegetation structural and physiological dynamics. Environ. Res. Lett. 19 073008.](https://doi.org/10.1088/1748-9326/ad5858)
 
+## III.Research related to biosphere-atmosphere-socioeconomic interactions
+Understanding how ecosystems, weather, and society influence each other is difficult, but increasingly important for actionable environmental science. This paper asks whether there are globally synchronized, year-to-year patterns at the country level that link changes across these domains. Using Earth observation datasets alongside World Bank socioeconomic indicators, we introduce a data-driven framework to detect coordinated “syndromes,” with the strongest signals tied to ecosystem water deficits and urban hot–dry stress. While the shared coupling explains only a modest fraction of total variability, it provides a useful starting point that others can extend with additional data, time lags, or regional and sector-specific applications to better monitor systemic socio-physical risks.
+
+**Publication:**
+[Li et al. (2025). Globally synchronized changes in the biosphere, atmosphere, and society identified using public data. One Earth. https://doi.org/10.1016/j.oneear.2025.101559]
+![Figure 4](figure/fig5_research.jpg)
