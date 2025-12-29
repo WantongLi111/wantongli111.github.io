@@ -46,10 +46,11 @@ This review synthesizes recent advances in monitoring vegetation dynamics, empha
 
 **Publication:**
 [Li, W., Duveiller, G., Wieneke, S., Forkel, M., Gentine, P., Reichstein, M., Niu, S., Migliavacca, M. & Orth, R. (2024). Regulation of the global carbon and water cycles through vegetation structural and physiological dynamics. Environ. Res. Lett. 19 073008.](https://doi.org/10.1088/1748-9326/ad5858)
+![Figure 5](figure/fig5_research.jpg)
 
 ## III.Research related to biosphere-atmosphere-socioeconomic interactions
 Understanding how ecosystems, weather, and society influence each other is difficult, but increasingly important for actionable environmental science. This paper asks whether there are globally synchronized, year-to-year patterns at the country level that link changes across these domains. Using Earth observation datasets alongside World Bank socioeconomic indicators, we introduce a data-driven framework to detect coordinated “syndromes,” with the strongest signals tied to ecosystem water deficits and urban hot–dry stress. While the shared coupling explains only a modest fraction of total variability, it provides a useful starting point that others can extend with additional data, time lags, or regional and sector-specific applications to better monitor systemic socio-physical risks.
 
 **Publication:**
 [Li, W., Duveiller, G., Gans, F., Smits, J., Kraemer, G., Frank, D., Mahecha, M.D., Weber, U., Migliavacca, M., Ceglar, A. Keenan, T.F. & Reichstein, M. (2025). Globally synchronized changes in the biosphere, atmosphere, and society identified using public data. One Earth. https://doi.org/10.1016/j.oneear.2025.101559]
-![Figure 4](figure/fig5_research.jpg)
+![Figure 6](figure/fig6_research.jpg)
