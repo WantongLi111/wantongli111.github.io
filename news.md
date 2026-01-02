@@ -12,8 +12,8 @@ Here are a few announcements coming soon or which have just happened:
      <strong>Project Update, Nov 2025:</strong>
       Dr. Jiaye Ping did a fantastic job right after starting her Postdoc, presenting her work at the Alexander von Humboldt Foundation Network Meeting at the University of Bayreuth, sharing ideas with an inspiring international community of researchers.
     </td>
-    <td width="50%">
-     <img src="{{ '/figure/io_fig3.jpg' | relative_url }}" alt="Your Photo" style="max-width:50%; height:auto;">
+    <td style="width:50%;">
+      <img src="/figure/io_fig3.jpg" style="width:100%; height:auto; display:block;">
     </td>
   </tr>
 </table>
@@ -26,8 +26,8 @@ Here are a few announcements coming soon or which have just happened:
       <strong>Workshop Update, April 2025:</strong>
        Together with a graduate student, I participated in a GEDI science team meeting at the University of Maryland, as highly recommended by Prof. Trevor Keenan. The three-day, medium-intensity meeting was fascinating, featuring presentations from distinguished scientists on topics ranging from GEDI-InSAR-Sentinel-2 image fusion, quality filtering algorithm enhancement, and complexity metrics construction to broad applications in vegetation modeling, disturbance assessment, and habitat protection. Last but not least, GEDI V2.1 and v3 are coming this summer or later, with improvement such as geolocation. Stay tuned!
     </td>
-    <td width="50%">
-      <img src="{{ '/figure/io_fig2.jpg' | relative_url }}" alt="Your Photo" style="max-width:50%; height:auto;">
+    <td style="width:50%;">
+      <img src="/figure/io_fig2.jpg" style="width:100%; height:auto; display:block;">
     </td>
   </tr>
 </table>
