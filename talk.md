@@ -21,3 +21,18 @@ permalink: /Talks and Outreach/
     </div>
   </div>
 </div>
+
+<div class="talk-card">
+  <a href="/figure/outreach_eddytower.jpg">
+    <img src="/figure/outreach_eddytower.jpg" alt="Long Night of Sciences Jena — ATTO tower experience and outreach activities">
+  </a>
+  <div class="talk-meta">
+    <div class="talk-title">Long Night of Sciences Jena: hands-on climate & ecosystem science outreach</div>
+    <div class="talk-sub">Co-organized public outreach series · Nov 2022</div>
+    <div class="talk-text">
+      A series of interactive outreach activities we co-organized and ran as PhD students for the Jena “Long Night of Sciences,” including on-site guidance for student groups and family-visit tour support. One highlight was an ATTO eddy-covariance tower “climbing” simulator that let visitors experience fieldwork safety and perspective changes with height: participants wore a helmet and safety harness, stepped on pedals to “ascend,” and watched the landscape view update on a screen—bringing Amazon rainforest research to life.
+      <br><br>
+      The exhibit was inspired by ATTO (Amazon Tall Tower Observatory), a German–Brazilian Amazon research project located ~150 km north of Manaus in northern Brazil. ATTO continuously measures meteorological, chemical, and biological variables (including greenhouse-gas concentrations) to understand how the Amazon interacts with the atmosphere above and soils below—knowledge that is essential for improving climate predictions.
+    </div>
+  </div>
+</div>
