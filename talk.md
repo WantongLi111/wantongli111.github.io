@@ -36,8 +36,8 @@ permalink: /Talks and Outreach/
   </div>
 
   <div class="talk-card">
-    <a href="/assets/img/outreach/outreach1.jpeg">
-      <img src="/assets/img/outreach/2026_workshop.jpg" alt="Community outreach workshop photo">
+    <a href="/figure/outreach1.jpeg">
+      <img src="/figure/outreach1.jpeg" alt="Community outreach workshop photo">
     </a>
     <div class="talk-meta">
       <div class="talk-title">Community outreach: drought risk & decision support</div>
