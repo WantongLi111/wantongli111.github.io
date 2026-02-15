@@ -36,7 +36,7 @@ permalink: /Talks and Outreach/
   </div>
 
   <div class="talk-card">
-    <a href="/assets/img/outreach/2026_workshop.jpg">
+    <a href="/assets/img/outreach/outreach1.jpeg">
       <img src="/assets/img/outreach/2026_workshop.jpg" alt="Community outreach workshop photo">
     </a>
     <div class="talk-meta">
