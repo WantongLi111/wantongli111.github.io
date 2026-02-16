@@ -9,8 +9,8 @@ Here are a few announcements coming soon or which have just happened:
 <table>
   <tr>
   <td>
-      <strong>Workshop Update, April 2025:</strong>
-       **AGU25 (New Orleans | Dec 15–19, 2025):** I participated in AGU and shared new work on forest degradation and ecosystem drought stress, combining GEDI-based vegetation structure with process-based modeling. And group gather of course!
+      <strong>Conference Update, Dec 2025:</strong>
+       **AGU25 (New Orleans):** This year I co-conveyed a one-day long session all about remote sensing, and shared some new work on forest degradation and ecosystem drought stress, combining GEDI-based vegetation structure with process-based modeling.
     </td>
     <td style="width:50%;">
       <img src="/figure/AGU 2025 picture.jpeg" style="width:100%; height:auto; display:block;">
