@@ -6,26 +6,24 @@ permalink: /News/
 
 Here are a few announcements coming soon or which have just happened:
 
-<table style="width:100%;">
+<table style="width:100%; border-collapse:collapse;">
   <tr>
-    <td style="width:100%;">
+    <td colspan="2" style="width:100%;">
       <strong>Conference Update, Dec 2025:</strong>
       AGU25, New Orleans: This year I co-convened a one-day session on remote sensing, and shared new work on forest degradation and ecosystem drought stress by combining GEDI-based vegetation structure with process-based modeling. Great to reconnect with many colleagues and meet new ones.
     </td>
   </tr>
 
   <tr>
-    <td style="width:100%;">
-      <img src="/figure/AGU25 talk.jpg" style="width:100%; height:auto; display:block; margin:8px 0 0 0;">
+    <td style="width:50%; padding-right:6px; vertical-align:top;">
+      <img src="/figure/AGU25 talk.jpg" style="width:100%; height:auto; display:block; margin-top:10px;">
     </td>
-  </tr>
-
-  <tr>
-    <td style="width:100%;">
-      <img src="/figure/AGU25 session.jpg" style="width:100%; height:auto; display:block; margin:12px 0 0 0;">
+    <td style="width:50%; padding-left:6px; vertical-align:top;">
+      <img src="/figure/AGU25 session.jpg" style="width:100%; height:auto; display:block; margin-top:10px;">
     </td>
   </tr>
 </table>
+
 <table>
   <tr>
     <td>
