@@ -16,14 +16,16 @@ Here are a few announcements coming soon or which have just happened:
 
   <tr>
     <td style="width:100%;">
-      <div style="display:flex; gap:12px; align-items:flex-start;">
-        <img src="/figure/AGU25 talk.jpg" style="width:50%; height:auto; display:block;">
-        <img src="/figure/AGU25 session.jpg" style="width:50%; height:auto; display:block;">
-      </div>
+      <img src="/figure/AGU25 talk.jpg" style="width:100%; height:auto; display:block; margin:8px 0 0 0;">
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width:100%;">
+      <img src="/figure/AGU25 session.jpg" style="width:100%; height:auto; display:block; margin:12px 0 0 0;">
     </td>
   </tr>
 </table>
-
 <table>
   <tr>
     <td>
