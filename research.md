@@ -26,7 +26,7 @@ This study quantified the sensitivity of vegetation leaf area index to near- and
 ## II.Research related to vegetation-atmosphere interactions
 
 **1. Drought propagation into the terrestrial water cycle**
-Significance: This study investigated the global propagation of soil drought in the hydrosphere blue water (runoff) and biosphere green water fluxes (land evaporation) and found contrasting drought responses between evaporation and runoff and between dry and wet regions. Land surface models overestimate the drought-induced evaporation deficits due to inadequate modelling of soil-water interplay. The initial analysis of this work was carried out by a MSc student whom I co-supervised, and after the successful master defense I took over the study and continued the work to complete the study.
+Significance: This study investigated the global propagation of soil drought in the hydrosphere blue water (runoff) and biosphere green water fluxes (land evaporation) and found contrasting drought responses between evaporation and runoff and between dry and wet regions. Land surface models overestimate the drought-induced evaporation deficits due to inadequate modelling of vegetation-water interplay. The initial analysis of this work was carried out by a MSc student whom I co-supervised, and after the successful master defense I took over the study and continued the work to complete the study.
 
 **Publication:**
 [Li, W., Reichstein, M., O, S., May, C., Destouni, G., Migliavacca, M., Kraft, B., Weber, U. & Orth, R. (2023). Contrasting drought propagation into the terrestrial water cycle between dry and wet regions. Earth's Future, 11, e2022EF003441.](https://doi.org/10.1029/2022EF003441)
